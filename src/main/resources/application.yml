@@ -1,8 +1,4 @@
 spring:
-  application:
-    name: producer
-
-
   kafka:
     bootstrap-servers: localhost:9092
     consumer:
